@@ -10,7 +10,7 @@ const data = [
     },
     {
         url: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1353&q=80",
-        text: "Sunny Beach"
+        text: "City on Winter"
     },
     {
         url: "https://images.unsplash.com/photo-1551009175-8a68da93d5f9?auto=format&fit=crop&w=1351&q=80",
